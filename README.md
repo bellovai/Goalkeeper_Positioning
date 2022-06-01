@@ -5,8 +5,9 @@ GitHub repository for my master's thesis (for now only the jupyter.ipynb file is
 ### Done
 - Create GitHub repository
 - Isolate 1v1 situations (including misses)
+- Define "theoretical optimal goalkeeper position" in code
 ### To-do
-- Define / write "theoretical optimal goalkeeper position" (Latex template, consider other togkp models too)
+- Define "theoretical optimal goalkeeper position" in words (consider other togkp models too)
 - Read GK positioning literature: dive radius, rules, theorems, (citations), look for authors
 - Zotero (create group library)
 
