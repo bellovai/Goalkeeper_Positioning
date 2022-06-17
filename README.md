@@ -4,13 +4,17 @@ GitHub repository for my master's thesis (for now only the jupyter.ipynb file is
 # Next steps
 ### Done
 - Create and share GitHub repository
-- Create and share LaTeX template 
+- Create and share LaTeX template
+- Create group library on Zotero
 - Isolate 1v1 situations (including misses)
 - Define "theoretical optimal goalkeeper position" in code
-- Create group library on Zotero
-### To-do
 - Define "theoretical optimal goalkeeper position" in words (consider other togkp models too)
 - Read GK positioning literature: dive radius, rules, theorems, (citations), look for authors
+### To-do
+- Deviation from TOGKP
+- Deviation from average GKP
+- Include forward dive
+- Include reaction time
 
 # Big picture
 ### 2D
